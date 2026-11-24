@@ -1,5 +1,10 @@
 # MCP Server Planning — AKC Breed Explorer
 
+
+## GitHub Repository
+
+https://github.com/Lestat1b/mcp-server-planning
+
 ## Project Overview
 
 This project extends the existing **AKC Breed Explorer** RESTful application with a Model Context Protocol (MCP) server. The MCP server provides an AI client with a standardized way to search, retrieve, compare, create, update, and delete breed profiles through tools, read-only resources, and reusable prompts.
